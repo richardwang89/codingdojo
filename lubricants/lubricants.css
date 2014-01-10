@@ -2,79 +2,100 @@
 	width: 1089px;
 }
 #box2a1,#box2a2{
-	display: inline-block;
-	vertical-align: top;
+	display: inline-block;vertical-align: top;
+}
+#box2a1{
+	width: 600px;
+	margin-right: -10px;
 }
 #box2a2{
-	background-color: grey;
+	background-color:#E8E8E8 ;
+	width: 489px;
+	padding-left: 20px;
+	margin-left: -18px;
 }
 #box2b1 li{
 	display: inline-block;
+	color: #747474;
+	font-size: small; font-weight: bold;
+	padding-top: 5px; padding-left: 15px; padding-right: 15px; 
+	border-right: solid; border-color: #747474; border-width: 1px;
 }
 #box2b{
-	background-color: grey;
-	
+	background-color: #E8E8E8;
+	height: 25px;
+	margin-bottom: 30px;
 }
 #box3{
 	background-color: black;  
 }
 #box3a1, #box3a2{
-	display: inline-block;
-	vertical-align: top;'
+	display: inline-block;vertical-align: top;'
 }
 #box3a1{
-	margin-top: 20px;
-	margin-left: 20px;
-	margin-right: 20px;
-}
+	margin-top: 20px; margin-left: 20px;margin-right: 20px;
+} 
 #box3a2{
 	width: 700px;
-	background-color: #4C4C4C;
-	background-image: url(images/linear_bg_1.png);
-  	background-repeat: repeat-y;
-  	background: -webkit-linear-gradient(left, #2F2727, #1a82f7);
-  	color: white;
-  	font-size: small;
+	background-color: grey;color: white;
   	margin-top: 20px;
+}
+#box3a2 p{
+	padding-left: 10px;padding-right: 15px; 
+	font-size: small;
+}
+#box3a2 h4{
+	padding-left: 10px;
 }
 #box3a2h3{
 	background-color: #FFD119;
-	height: 35px;
-	margin-top: 5px;
+	height: 25px;
+	margin-top: 0px;
+	color: black;
+	padding: 15px 0px 5px 5px;
+}
+#box3a2h4{
+	margin-top: -9px;
+}
+#box3a2p1{
+	margin-top: -12px;
 }
 #box3b1,#box3b2{
-	display: inline-block;
+	display: inline-block; vertical-align: top;
 	color: #FFD119;
 }
+#box3b2 h5{
+	padding-top: 5px;
+}
 #box3b1{
-	margin-left: 30px;
+	margin-left: 30px;margin-top: 5px;
+}
+#box3b1 img{
+	padding-top: 20px;
 }
 .box3c1{
 	display: inline-block;
 	vertical-align: top;
-	width:200px; 
+	width:250px; 
 	border: solid;
-	margin-left: 25px;
-
+	margin-left: 10px;margin-bottom: 5px;
 }
 .box3h4{
 	background-color: #FFD119;
-	height: 35px;
-	margin-bottom: 0px;
-	margin-top: 0px;
+	height: 23px;
+	margin-bottom: 0px; margin-top: 0px;
+	padding:10px 0px 5px 5px; 
 }
 .box3p{
 	background-color: white;
 	font-size: small;
 	height: 90px;
-	margin-top: 0px;
-	margin-bottom: 0px;
-	width: 190px;
-	padding:5px 5px 5px 5px;
+	margin-top: 0px;margin-bottom: 0px;margin-left: 2px;
+	width: 232px;
+	padding:5px 5px 5px 9px;
 }
 .box3c1 img{
-	width: 200px;
-	margin-bottom: -5px;
+	width: 250px;margin-bottom: -5px;
 }
 
 
