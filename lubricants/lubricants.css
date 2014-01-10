@@ -1,0 +1,40 @@
+#box1{
+	width: 1300px;
+}
+#box2a1,#box2a2{
+	display: inline-block;
+	vertical-align: top;
+}
+#box2a2{
+	background-color: grey;
+}
+#box2b1 li{
+	display: inline-block;
+}
+#box2b{
+	background-color: grey;
+}
+#box3{
+	background-color: grey;  
+}
+#box3a1, #box3a2{
+	display: inline-block;
+	vertical-align: top;
+}
+#box3a2{
+	width: 700px;
+}
+#box3b1,#box3b2{
+	display: inline-block;
+
+}
+.box3c1{
+	display: inline-block;
+	vertical-align: top;
+	width:200px; 
+}
+.box3h4{
+	background-color: #FFD119;
+	height: 35px;
+	margin-bottom: 0px;
+}
