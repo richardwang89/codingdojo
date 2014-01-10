@@ -1,5 +1,5 @@
 #box1{
-	width: 1300px;
+	width: 1089px;
 }
 #box2a1,#box2a2{
 	display: inline-block;
@@ -13,28 +13,71 @@
 }
 #box2b{
 	background-color: grey;
+	
 }
 #box3{
-	background-color: grey;  
+	background-color: black;  
 }
 #box3a1, #box3a2{
 	display: inline-block;
-	vertical-align: top;
+	vertical-align: top;'
+}
+#box3a1{
+	margin-top: 20px;
+	margin-left: 20px;
+	margin-right: 20px;
 }
 #box3a2{
 	width: 700px;
+	background-color: #4C4C4C;
+	background-image: url(images/linear_bg_1.png);
+  	background-repeat: repeat-y;
+  	background: -webkit-linear-gradient(left, #2F2727, #1a82f7);
+  	color: white;
+  	font-size: small;
+  	margin-top: 20px;
+}
+#box3a2h3{
+	background-color: #FFD119;
+	height: 35px;
+	margin-top: 5px;
 }
 #box3b1,#box3b2{
 	display: inline-block;
-
+	color: #FFD119;
+}
+#box3b1{
+	margin-left: 30px;
 }
 .box3c1{
 	display: inline-block;
 	vertical-align: top;
 	width:200px; 
+	border: solid;
+	margin-left: 25px;
+
 }
 .box3h4{
 	background-color: #FFD119;
 	height: 35px;
 	margin-bottom: 0px;
+	margin-top: 0px;
 }
+.box3p{
+	background-color: white;
+	font-size: small;
+	height: 90px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	width: 190px;
+	padding:5px 5px 5px 5px;
+}
+.box3c1 img{
+	width: 200px;
+	margin-bottom: -5px;
+}
+
+
+
+
+
